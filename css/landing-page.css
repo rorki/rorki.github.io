@@ -45,6 +45,13 @@ h6 {
     background-size: cover;
 }
 
+.skink-logo {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
 .intro-message {
     padding-top: 20%;
     padding-bottom: 20%;
@@ -75,6 +82,7 @@ h6 {
 
 .social {
     text-align: center;
+    padding-left: 2%;
 }
 
 .network-name {
